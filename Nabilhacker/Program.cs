@@ -1,4 +1,6 @@
-﻿using System;
+﻿//https://www.spoj.com/users/widzioq/
+
+using System;
 using System.Linq;
 using System.Collections.Generic;
 
